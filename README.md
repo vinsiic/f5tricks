@@ -4,3 +4,4 @@ This is more like placehoder and stuff that is usefull to myself in everyday, so
 
 + F5 BIG-IP tips & tricks from everyday usage
 + Common everyday tips & tricks
++ Useful web resources
